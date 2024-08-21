@@ -21,14 +21,16 @@ The Nessus Vulnerability Scanner project aimed to deploy and configure Nessus, a
 - <b>Windows 10</b> (21H2)
 - <b>Kali linux</b> (21H2)
 
- <h2>Nessus to identify vulnerabilities, follow these basic steps</h2>
-
- - <b>Download Nessus: Visit the Tenable website to download the appropriate version of Nessus (Nessus Essentials is free, but there are also commercial versions such as Nessus Professional).</b>
- - <b>Install Nessus: Follow the installation instructions specific to your operating system (Windows, Linux, etc.). This usually involves running an installation file and following the wizard.</b>
- - <b>Set Up Nessus: After installation, access the Nessus web interface through your browser (usually at http://localhost:8834). Complete the initial setup process, including creating an account and activating the license (if necessary).</b>
- - <b></b>
- - <b></b>
+ <h2>Step-by-Step Project</h2>
  
+ <h2>Prepare the Virtual Machine </h2>
+ 
+ - <b>Choose a Hypervisor: Select a hypervisor such as VirtualBox, VMware Workstation, or VMware ESXi.</b>
+ - <b>Create a New Virtual Machine: Start the VM creation process in your hypervisor software.</b>
+ - <b>Allocate Resources: Assign CPU, memory, and storage based on Nessus requirements and your environment. A typical setup might use 2 GB of RAM and 20 GB of storage.</b>
+ 
+ <h2> </h2>
+
 
 <h2>Program walk-through:</h2>
 
