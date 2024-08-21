@@ -29,15 +29,16 @@ The Nessus Vulnerability Scanner project aimed to deploy and configure Nessus, a
  - <b>Create a New Virtual Machine: Start the VM creation process in your hypervisor software.</b>
  - <b>Allocate Resources: Assign CPU, memory, and storage based on Nessus requirements and your environment. A typical setup might use 2 GB of RAM and 20 GB of storage.</b>
  
- <h2> </h2>
-
-
-<h2>Program walk-through:</h2>
+ <h2>  Install the Operating System</h2>
+- <b>Windows 10 ISO: https://www.microsoft.com/en-us/software-download/windows10</b>
+- <b>Download the ISO: Obtain the ISO file for the Linux distribution you selected.</b>
+- <b>Mount the ISO: Attach the ISO file to your VM's virtual CD/DVD drive.</b>
+<
+ h2>Program walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<img src="https://<br />
 <br />
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
